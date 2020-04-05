@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Share Our Sun
-image: /img/home-jumbotron.jpg
+image: /img/hero-image.jpg
 heading: Great coffee with a conscience
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
