@@ -1,16 +1,14 @@
 ---
 templateKey: index-page
-title: Share Our Sun
+title: Share Our Sun // Socially Distance Collectivism
 image: /img/hero-image.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: "\U0001F31E"
+subheading: Share Our Story // Save Our Selves
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  title: "\U0001F31E"
+  description: >-
+    Share Our Sun is a virtual celebration during our shared season of Spring of
+    our world's last remaining third place*, the sky above us. 
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
@@ -46,11 +44,11 @@ intro:
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
   heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  description: >-
+    In community building, the third place is the social surroundings separate
+    from the two usual social environments of home and the workplace. During our
+    shared isolation under the COVID-19 pandemic, our growing collective of
+    friends and family are exploring new forms of community. 
 main:
   heading: Great coffee with no compromises
   description: >
