@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Share Our Sun // Socially Distance Collectivism
+title: Share Our Sun // Socially Distant Collectivism
 image: /img/hero-image.jpg
 heading: "\U0001F31E"
 subheading: Share Our Story // Save Our Selves
@@ -9,40 +9,16 @@ mainpitch:
   description: >-
     Share Our Sun is a virtual celebration during our shared season of Spring of
     our world's last remaining third place*, the sky above us. 
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+description: Every day we make time for each other to make art together.
 intro:
   blurbs:
-    - image: /img/coffee.png
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+    - image: /img/home-sun-making.jpg
+      text: 'To participate, you simply show up ready to make suns together. '
+    - image: /img/window-suns-deitcher.jpg
+      text: >-
+        After a half-hour of creation, we share our joys and gratitude with each
+        other and then share our suns to our community by posting them daily
+        outside our homes.
   heading: What we offer
   description: >-
     In community building, the third place is the social surroundings separate
