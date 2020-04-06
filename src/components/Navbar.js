@@ -65,14 +65,12 @@ const Navbar = class extends React.Component {
               <Link className="navbar-item" to="/about">
                 About
               </Link>
-
+              <Link className="navbar-item" to="/blog">
+                Sun Days
+              </Link>
 {/*
-
               <Link className="navbar-item" to="/products">
                 Products
-              </Link>
-              <Link className="navbar-item" to="/blog">
-                Blog
               </Link>
               <Link className="navbar-item" to="/contact">
                 Contact
@@ -85,7 +83,7 @@ const Navbar = class extends React.Component {
             <div className="navbar-end has-text-centered">
               <a
                 className="navbar-item"
-                href="https://aryon.com"
+                href="https://github.com/aryon/SOS-gatsby-starter-netlify-cms"
                 target="_blank"
                 rel="noopener noreferrer"
               >
