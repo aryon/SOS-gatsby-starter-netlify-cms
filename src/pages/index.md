@@ -8,7 +8,7 @@ mainpitch:
   title: "\U0001F31E"
   description: >-
     Share Our Sun is a virtual celebration during our shared season of Spring of
-    our world's last remaining third place*, the sky above us. 
+    our world's last remaining third place, the sky above us. 
 description: Every day we make time for each other to make art together.
 intro:
   blurbs:
