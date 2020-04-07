@@ -7,8 +7,9 @@ subheading: Share Our Story // Save Our Selves
 mainpitch:
   title: "\U0001F31E"
   description: >-
-    Share Our Sun is a virtual celebration during our shared season of Spring of
-    our world's last remaining third place, the sky above us. 
+    We make sun. We have fun. We are grateful for this opportunity to create
+    with our growing collective of family and friends. Join us or create your
+    own collective. It helps. We can help you. 
 description: Every day we make time for each other to make art together.
 intro:
   blurbs:
