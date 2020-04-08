@@ -13,6 +13,8 @@ $black: #2b2523
 body
   background-color: yellow !important
 
+.notification
+    padding: 0 !important
 
 .full-width-image-container
     height: 127px !important
@@ -125,14 +127,20 @@ $menu-label-color: $white-ter
 
 // blog roll
 .blog-list-item.is-featured
-  background-color: #d6400033;
+  background-color: #d6400033
 .blog-list-item header
-  display: flex;
-  margin-bottom: 1em;
+  margin-bottom: 1em
 .blog-list-item .featured-thumbnail
-  flex-basis: 35%;
-  margin: 0 1.5em 0 0;
+  margin: 0 1.5em 0 0
+  width: 100%
+.blog-list-item p
+    padding: 1rem !important
 
+.blog-list-item p.post-meta
+    padding: 1rem 1rem 0 1rem !important
+
+.blog-list-item header
+    margin-bottom: 0
 
 @import "~bulma"
 
