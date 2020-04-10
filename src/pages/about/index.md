@@ -19,3 +19,5 @@ Every day, since the vernal equinox, a group of growing friends and family have 
 
 
 ![](/img/aryon-harwood-home.jpg)
+
+[Harwood Art Center Event Page](https://www.harwoodartcenter.org/upcoming-exhibitions/share-our-story-save-our-selves-aryon-hopkins/)
